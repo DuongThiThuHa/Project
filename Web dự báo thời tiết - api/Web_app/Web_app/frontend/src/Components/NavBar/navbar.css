@@ -1,0 +1,56 @@
+.navbar-container{
+    display: flex;
+    padding: 0rem 1.5rem;
+    justify-content: space-between;
+    background-color: rgb(5, 69, 158);
+    align-items: center;
+}
+/* .navbar-container > *{
+    margin: 0 1.25rem;
+    text-decoration: none;
+    font-weight: 600;
+    color:rgb(0, 99, 230);
+} */
+.user-logout{
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    text-justify: auto;
+    flex-direction: row;
+    margin: 20px;
+}
+.navbar-home{
+    color:rgb(255, 255, 255);
+}
+.navbar-login {
+    color:rgb(163, 162, 162);
+}
+.navbar-register{
+    color:rgb(255, 255, 255);
+    background-color: rgb(150, 150, 150);
+    padding:0.35rem;
+    border-radius: 6px;
+}
+.navbar-user{
+    color: rgb(180, 236, 239);
+}
+.navbar-logout {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 0.35rem;
+    margin-left: 20px;
+}
+.city{
+    margin-left: 20rem;
+}
+button{
+    margin: auto;
+    cursor: pointer;
+    border: none;
+    align-self: center;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0.65rem;
+    background: #05459e;
+    color: white;
+}

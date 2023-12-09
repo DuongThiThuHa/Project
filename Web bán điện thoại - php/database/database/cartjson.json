@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "64562618b37652ebd70d7f7e"
+  },
+  "customer_id": "643d44b2cf03f50a3be10c86",
+  "product_id": "643d3a30cf03f50a3be10c53",
+  "quantity": 1,
+  "total": 1441
+}]

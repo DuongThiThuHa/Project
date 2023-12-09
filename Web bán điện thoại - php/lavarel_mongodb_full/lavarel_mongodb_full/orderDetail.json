@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "643d470dcf03f50a3be10c8c"
+  },
+  "code": 60001,
+  "customer_id": {
+    "$oid": "643d4460cf03f50a3be10c84"
+  },
+  "product_id": {
+    "$oid": "643d4090cf03f50a3be10c76"
+  },
+  "quantity": 2,
+  "total": 864,
+  "order_id": {
+    "$oid": "643d4637cf03f50a3be10c89"
+  }
+},{
+  "_id": {
+    "$oid": "643d4730cf03f50a3be10c8d"
+  },
+  "code": 60002,
+  "customer_id": {
+    "$oid": "643d4460cf03f50a3be10c84"
+  },
+  "product_id": {
+    "$oid": "643d3e38cf03f50a3be10c6a"
+  },
+  "quantity": 1,
+  "total": 5,
+  "order_id": {
+    "$oid": "643d4637cf03f50a3be10c89"
+  }
+},{
+  "_id": {
+    "$oid": "64576acf50f61bd5dd0d3c19"
+  },
+  "code": 60003,
+  "customer_id": "643d4460cf03f50a3be10c84",
+  "product_id": "64575dbb50f61bd5dd0d3c14",
+  "quantity": 1,
+  "total": 1589,
+  "order_id": "64576acf50f61bd5dd0d3c18"
+},{
+  "_id": {
+    "$oid": "64576acf50f61bd5dd0d3c1a"
+  },
+  "code": 60004,
+  "customer_id": "643d4460cf03f50a3be10c84",
+  "product_id": "6457623a50f61bd5dd0d3c15",
+  "quantity": 1,
+  "total": 1441,
+  "order_id": "64576acf50f61bd5dd0d3c18"
+}]
