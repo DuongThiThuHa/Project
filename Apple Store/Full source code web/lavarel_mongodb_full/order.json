@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "643d4637cf03f50a3be10c89"
+  },
+  "code": 50001,
+  "customer_id": {
+    "$oid": "643d4460cf03f50a3be10c84"
+  },
+  "subtotal": 869
+},{
+  "_id": {
+    "$oid": "64576acf50f61bd5dd0d3c18"
+  },
+  "code": 50002,
+  "customer_id": "643d4460cf03f50a3be10c84",
+  "subtotal": 3030
+}]

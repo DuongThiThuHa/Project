@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "643d4405cf03f50a3be10c82"
+  },
+  "code": 10001,
+  "fullname": "Nguyen Van An",
+  "username": "vanan",
+  "password": "123456",
+  "address": "Da Nang",
+  "phone": "0905111111",
+  "email": "nguyenvanan@gmail.com",
+  "role": "admin"
+},{
+  "_id": {
+    "$oid": "643d4438cf03f50a3be10c83"
+  },
+  "code": 10002,
+  "fullname": "Tran Thanh Binh",
+  "username": "thanhbinh",
+  "password": "456789",
+  "address": "Quang Nam",
+  "phone": "0905222222",
+  "email": "tranthanhbinh@gmail.com",
+  "role": "admin"
+},{
+  "_id": {
+    "$oid": "643d4460cf03f50a3be10c84"
+  },
+  "code": 10003,
+  "fullname": "Do Cuong",
+  "username": "docuong",
+  "password": "abcdef",
+  "address": "Ha Noi",
+  "phone": "0905333333",
+  "email": "docuong@gmail.com",
+  "role": ""
+},{
+  "_id": {
+    "$oid": "643d448bcf03f50a3be10c85"
+  },
+  "code": 10004,
+  "fullname": "Phan Van Dung",
+  "username": "vandung",
+  "password": "abc123",
+  "address": "Da Nang",
+  "phone": "0905444444",
+  "email": "phanvandung@gmail.com",
+  "role": ""
+},{
+  "_id": {
+    "$oid": "643d44b2cf03f50a3be10c86"
+  },
+  "code": 10005,
+  "fullname": "Tran Thanh",
+  "username": "tranthanh",
+  "password": "abc456",
+  "address": "Quang Nam",
+  "phone": "0905555555",
+  "email": "tranthanh@gmail.com",
+  "role": ""
+}]

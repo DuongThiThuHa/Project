@@ -1,0 +1,586 @@
+[{
+  "_id": {
+    "$oid": "643d3a30cf03f50a3be10c53"
+  },
+  "code": 30001,
+  "name": "Samsung Galaxy S23",
+  "price": 1441,
+  "image": "SamsungGSU.png",
+  "description": "CPU: Snapdragon 8 Gen 2 - Screen: 6.8 inch - RAM: 12GB - Storage capacity: 512GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3a6fcf03f50a3be10c54"
+  },
+  "code": 30002,
+  "name": "OPPO Reno8",
+  "price": 466,
+  "image": "OppoReno8.png",
+  "description": "CPU: Snapdragon 695 5G - Screen: 6.7 inch - RAM: 8GB - Storage capacity: 256GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3a95cf03f50a3be10c55"
+  },
+  "code": 30003,
+  "name": "iPhone 14 Pro Max",
+  "price": 1589,
+  "image": "Iphone14PM.png",
+  "description": "CPU: Apple A16 Bionic - Screen: 6.7 inch - RAM: 6GB - Storage capacity: 512GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3ac0cf03f50a3be10c56"
+  },
+  "code": 30004,
+  "name": "Samsung Galaxy S21 FE",
+  "price": 530,
+  "image": "SamsungGSFE.png",
+  "description": "Chip: Exynos 2100 - Screen: 6.4 inch - RAM: 8GB - Storage capacity: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3aedcf03f50a3be10c57"
+  },
+  "code": 30005,
+  "name": "Xiaomi Redmi 12C",
+  "price": 152,
+  "image": "XiaomiR12C.png",
+  "description": "Chip: MediaTek Helio G85 - Screen: 6.71 inch - RAM: 4GB - Storage capacity: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3b12cf03f50a3be10c58"
+  },
+  "code": 30006,
+  "name": "iPhone 11",
+  "price": 593,
+  "image": "Iphone11.png",
+  "description": "Chip: Apple A13 Bionic - Screen: 6.1 inch - RAM: 4GB - Storage capacity: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3b3fcf03f50a3be10c59"
+  },
+  "code": 30007,
+  "name": "Xiaomi Redmi Note 11",
+  "price": 169,
+  "image": "XiaomiRN11.png",
+  "description": "Chip: Snapdragon 680 - Screen: 6.43 inch - RAM: 4GB - Storage capacity: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3b67cf03f50a3be10c5a"
+  },
+  "code": 30008,
+  "name": "Vivo Y35",
+  "price": 284,
+  "image": "VivoY35.png",
+  "description": "Chip: Snapdragon 680 - Screen: 6.58 inch - RAM: 8GB - Storage capacity: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3b93cf03f50a3be10c5b"
+  },
+  "code": 30009,
+  "name": "OPPO Reno8 Pro",
+  "price": 763,
+  "image": "OppoReno8P.png",
+  "description": "Chip: MediaTek Dimensity 8100 Max - Screen: 6.7 inch - RAM: 12GB - Storage capacity: 256GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3bbecf03f50a3be10c5c"
+  },
+  "code": 30010,
+  "name": "OPPO A55",
+  "price": 156,
+  "image": "OppoA55.png",
+  "description": "Chip: MediaTek Helio G35 - Screen: 6.5 inch - RAM: 4GB - Storage capacity: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3c03cf03f50a3be10c5d"
+  },
+  "code": 30011,
+  "name": "Samsung Galaxy A23",
+  "price": 211,
+  "image": "SamsungGA23.png",
+  "description": "Chip: Snapdragon 680 - Screen: 6.6 inch - RAM: 4GB - Storage capacity: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3c27cf03f50a3be10c5e"
+  },
+  "code": 30012,
+  "name": "Vivo V25",
+  "price": 424,
+  "image": "VivoV25.png",
+  "description": "Chip: MediaTek Dimensity 900 5G - Screen: 6.44 inch - RAM: 8GB - Storage capacity: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3c4ecf03f50a3be10c5f"
+  },
+  "code": 30013,
+  "name": "Realme C30s",
+  "price": 95,
+  "image": "RealmeC30s.png",
+  "description": "Chip: Unisoc SC9863A1 - Screen: 6.5 inch - RAM: 2GB - Storage capacity: 32GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3c6ecf03f50a3be10c60"
+  },
+  "code": 30014,
+  "name": "POCO C40",
+  "price": 114,
+  "image": "PocoC40.png",
+  "description": "Chip: JLQ JR510 - Screen: 6.71 inch - RAM: 4GB - Storage capacity: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3c98cf03f50a3be10c61"
+  },
+  "code": 30015,
+  "name": "Xiaomi 12T",
+  "price": 530,
+  "image": "Xiaomi12T.png",
+  "description": "Chip: MediaTek Dimensity 8100 Ultra - Screen: 6.67 inch - RAM: 8GB - Storage capacity: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3cbacf03f50a3be10c62"
+  },
+  "code": 30016,
+  "name": "iPhone 12",
+  "price": 699,
+  "image": "Iphone12.png",
+  "description": "Chip: Apple A14 Bionic - Screen: 6.1 inch - RAM: 4GB - Storage capacity: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3ce0cf03f50a3be10c63"
+  },
+  "code": 30017,
+  "name": "Nokia C21 Plus",
+  "price": 101,
+  "image": "NokiaC21P.png",
+  "description": "Chip: Spreadtrum SC9863A - Screen: 6.5 inch - RAM: 3GB - Storage capacity: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3d00cf03f50a3be10c64"
+  },
+  "code": 30018,
+  "name": "Samsung Galaxy Z Flip4",
+  "price": 890,
+  "image": "SamsungGZF4.png",
+  "description": "Chip: Snapdragon 8+ Gen 1 - Screen: 6.7 inch Main & 1.9 inch Secondary - RAM: 8GB - Storage capacity: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3d22cf03f50a3be10c65"
+  },
+  "code": 30019,
+  "name": "Realme 9 Pro+",
+  "price": 360,
+  "image": "Realme9P.png",
+  "description": "Chip: MediaTek Dimensity 920 5G - Screen: 6.4 inch - RAM: 8GB - Storage capacity: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  }
+},{
+  "_id": {
+    "$oid": "643d3d8acf03f50a3be10c66"
+  },
+  "code": 30020,
+  "name": "Polymer Power Bank 10,000 mAh Type C PD Mophie Powerstation XL",
+  "price": 25,
+  "image": "MophiePowerstationXL.jpg",
+  "description": "Charging efficiency: 60% - Battery capacity: 10,000 mAh - Battery core: Polymer - Brand: USA - Made in: China - Brand: Mophie",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d3db7cf03f50a3be10c67"
+  },
+  "code": 30021,
+  "name": "Power bank polymer wireless 10,000 mAh Xmobile PJ JP151",
+  "price": 15,
+  "image": "XmobilePJ.png",
+  "description": "Charging efficiency: 65% - Battery capacity: 10,000 mAh - Battery core: Polymer - Brand: Mobile World - Made in: China - Brand: Xmobile",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d3de0cf03f50a3be10c68"
+  },
+  "code": 30022,
+  "name": "MFI Lightning Cable 1m Mbest DS286-WB Gray",
+  "price": 7,
+  "image": "CapLightningMFI.jpg",
+  "description": "Input: USB Type-A - Output: Lightning: 5V - 2.4A - Maximum power: 12 W - Cord length: 1m - Brand: Mobile World - Made in: China - Brand: Mbest",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d3e0fcf03f50a3be10c69"
+  },
+  "code": 30023,
+  "name": "Charging 3 ports USB Type C PD 65W Samsung EP",
+  "price": 63,
+  "image": "SacSamsungEP.jpg",
+  "description": "Input: AC 100-240V - Output: USB: 5V - 2A, 9V - 1.67A (Max 15W) - Maximum charging current: 65 W - Cord length: 1m - Brand: Korea - Made in : Vietnam - Brand: Samsung",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d3e38cf03f50a3be10c6a"
+  },
+  "code": 30024,
+  "name": "Micro USB cable charging",
+  "price": 5,
+  "image": "SacdayMicroUSB.png",
+  "description": "Input: Undisclosed company - Output: Micro : 5V - 1A - Maximum charging current: 5 W - Cord length: 1.2m - Brand: Mobile World - Made in: China - Brand: Xmobile",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d3e5ecf03f50a3be10c6b"
+  },
+  "code": 30025,
+  "name": "True Wireless Bluetooth Headset AVA+ DS200A-WB",
+  "price": 11,
+  "image": "TrueWirelessBluetoothAVA.webp",
+  "description": "Headphone time: Use 4 hours - Charge 1.5 hours - Charging box time: Use 12 hours - Charge 1.5 hours - Charging port: Micro USB - Brand: AVA+",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d3e83cf03f50a3be10c6c"
+  },
+  "code": 30026,
+  "name": "Aukey True Wireless Bluetooth Headset",
+  "price": 51,
+  "image": "TrueWirelessAukey.jpg",
+  "description": "Headphone time: Use 3 hours - Charge 1.5 hours - Charging box time: Use 8 hours - Charge 1.5 hours - Charging port: Micro USB - Brand: AUKEY",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d3ec6cf03f50a3be10c6d"
+  },
+  "code": 30027,
+  "name": "iPad 9 Tablet",
+  "price": 360,
+  "image": "MTBiPad9.png",
+  "description": "Chip: Apple A13 Bionic - Screen: 10.2 inch - RAM: 3 GB - Storage capacity: 64 GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3938cf03f50a3be10c50"
+  }
+},{
+  "_id": {
+    "$oid": "643d3f53cf03f50a3be10c6e"
+  },
+  "code": 30028,
+  "name": "Tablet Samsung Galaxy Tab A8",
+  "price": 296,
+  "image": "MTBSamsungGTA8.png",
+  "description": "Chip: UniSOC T618 - Screen: 10.5 inch - RAM: 4GB - Storage capacity: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3938cf03f50a3be10c50"
+  }
+},{
+  "_id": {
+    "$oid": "643d3f7fcf03f50a3be10c6f"
+  },
+  "code": 30029,
+  "name": "Lenovo Tab M8 Tablet",
+  "price": 148,
+  "image": "MTBLenovoTM.png",
+  "description": "Chip: MediaTek Helio A22 - Screen: 8 inch - RAM: 3GB - Storage capacity: 32GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3938cf03f50a3be10c50"
+  }
+},{
+  "_id": {
+    "$oid": "643d3fa3cf03f50a3be10c70"
+  },
+  "code": 30030,
+  "name": "OPPO Pad Air Tablet",
+  "price": 284,
+  "image": "MTBOPPOPA.png",
+  "description": "Chip: Snapdragon 680 - Screen: 10.36 inch - RAM: 4GB - Storage capacity: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3938cf03f50a3be10c50"
+  }
+},{
+  "_id": {
+    "$oid": "643d3fc4cf03f50a3be10c71"
+  },
+  "code": 30031,
+  "name": "iPad Pro M1 Tablet",
+  "price": 1386,
+  "image": "MTBiPadPM1.png",
+  "description": "Chip: Apple M1 - Screen: 12.9 inch - RAM: 8GB - Storage capacity: 512GB",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3938cf03f50a3be10c50"
+  }
+},{
+  "_id": {
+    "$oid": "643d3ff7cf03f50a3be10c72"
+  },
+  "code": 30032,
+  "name": "HAYLOU GST Smart Watch",
+  "price": 59,
+  "image": "DHTMHAYLOUGST.jpg",
+  "description": "Battery life: About 7 days - Screen: 1.69 inch - Connect to operating system: iOS 11 or later, Android 6.0 or later - Brand: Haylou",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3945cf03f50a3be10c51"
+  }
+},{
+  "_id": {
+    "$oid": "643d4017cf03f50a3be10c73"
+  },
+  "code": 30033,
+  "name": "BeFit Sporty Smartwatch",
+  "price": 59,
+  "image": "DHTMBeFitSporty.jpg",
+  "description": "Battery life: About 7 days - Screen: IPS, 1.32 inch - Connect to operating system: iOS 11 or later, Android 6.0 or later - Brand: BeFit",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3945cf03f50a3be10c51"
+  }
+},{
+  "_id": {
+    "$oid": "643d4037cf03f50a3be10c74"
+  },
+  "code": 30034,
+  "name": "Samsung Galaxy Watch5 Smart Watch",
+  "price": 275,
+  "image": "DHTMSamsungGW5.jpg",
+  "description": "Battery life: About 1.6 days - Screen: SUPER AMOLED, 1.2 inch - Connect to operating system: Android 8.0 or higher using Google Mobile Service - Brand: Samsung",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3945cf03f50a3be10c51"
+  }
+},{
+  "_id": {
+    "$oid": "643d4063cf03f50a3be10c75"
+  },
+  "code": 30035,
+  "name": "BeFit BeU Smart Watch",
+  "price": 59,
+  "image": "DHTMBeFitBeU.jpg",
+  "description": "Battery life: About 10 days - Screen: TFT, 1.69 inch - Connect to operating system: Android 4.4 or higher, iOS 8 or later - Brand: BeFit",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3945cf03f50a3be10c51"
+  }
+},{
+  "_id": {
+    "$oid": "643d4090cf03f50a3be10c76"
+  },
+  "code": 30036,
+  "name": "Apple Watch Series 7 GPS",
+  "price": 432,
+  "image": "AppleWS7GPS.jpg",
+  "description": "Battery life: Approx. 1.5 days (in battery saver mode), Approx. 18 hours (in normal use) - Screen: OLED, 1.77 inch - Connected to OS: iPhone 8 or later with iOS version Latest version - Brand: Apple",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3945cf03f50a3be10c51"
+  }
+},{
+  "_id": {
+    "$oid": "643d40f4cf03f50a3be10c77"
+  },
+  "code": 30037,
+  "name": "Samsung Galaxy S23 Ultra Silicone Case",
+  "price": 34,
+  "image": "OpLungGalaxySU.png",
+  "description": "Material: Silicone",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d4127cf03f50a3be10c78"
+  },
+  "code": 30038,
+  "name": "Magsafe iPhone 14 Pro Max Case",
+  "price": 54,
+  "image": "OpLungMiPhone14PM.jpg",
+  "description": "Material: Clear plastic",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d414ecf03f50a3be10c79"
+  },
+  "code": 30039,
+  "name": "Galaxy Z Flip4 Flip Cover Case",
+  "price": 44,
+  "image": "OpLungGalaxyZFlip4.png",
+  "description": "Material: Silicone",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+},{
+  "_id": {
+    "$oid": "643d4186cf03f50a3be10c7a"
+  },
+  "code": 30040,
+  "name": "Microsoft 365 Personal 32/64bit",
+  "price": 42,
+  "image": "M365P32.jpg",
+  "description": "Language: Multiple languages - For: MacOS, Android, Windows, iOS - Brand: Microsoft",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3952cf03f50a3be10c52"
+  }
+},{
+  "_id": {
+    "$oid": "643d41aecf03f50a3be10c7b"
+  },
+  "code": 30041,
+  "name": "Microsoft 365 Family 32/64bit",
+  "price": 63,
+  "image": "M365F32.jpg",
+  "description": "Language: Multiple languages - For: MacOS, Android, Windows, iOS - Brand: Microsoft",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3952cf03f50a3be10c52"
+  }
+},{
+  "_id": {
+    "$oid": "643d41d3cf03f50a3be10c7c"
+  },
+  "code": 30042,
+  "name": "Microsoft Office Home & Student 2021",
+  "price": 93,
+  "image": "MOH&S2021.jpg",
+  "description": "Language: Multiple languages - For: Windows 10, Windows 11, MacOS - Brand: Microsoft",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3952cf03f50a3be10c52"
+  }
+},{
+  "_id": {
+    "$oid": "643d41fccf03f50a3be10c7d"
+  },
+  "code": 30043,
+  "name": "Microsoft Windows 10 Home 32-bit/64-bit",
+  "price": 157,
+  "image": "MW10H32.jpg",
+  "description": "Language: Multiple languages - For: Windows - Brand: Microsoft",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3952cf03f50a3be10c52"
+  }
+},{
+  "_id": {
+    "$oid": "643d4220cf03f50a3be10c7e"
+  },
+  "code": 30044,
+  "name": "Microsoft Windows 10 Pro 32-bit/64-bit",
+  "price": 232,
+  "image": "MW10P32.jpg",
+  "description": "Language: Multiple languages - For: Windows - Brand: Microsoft",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3952cf03f50a3be10c52"
+  }
+},{
+  "_id": {
+    "$oid": "643d4261cf03f50a3be10c7f"
+  },
+  "code": 30045,
+  "name": "AirPods 2 Lightning Charge Apple MV7N2 Bluetooth Headphones",
+  "price": 123,
+  "image": "AriPods2.jpg",
+  "description": "Headphone time: Use 5 hours - Charge 2 hours - Charging box time: Use 24 hours - Charge 2 hours - Charging port: Lightning - Brand: Apple",
+  "quantity": 10,
+  "category_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  }
+}]

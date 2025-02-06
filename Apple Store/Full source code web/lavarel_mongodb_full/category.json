@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "643d3914cf03f50a3be10c4e"
+  },
+  "code": 20001,
+  "name": "Mobile"
+},{
+  "_id": {
+    "$oid": "643d3928cf03f50a3be10c4f"
+  },
+  "code": 20002,
+  "name": "Accessory"
+},{
+  "_id": {
+    "$oid": "643d3938cf03f50a3be10c50"
+  },
+  "code": 20003,
+  "name": "Tablet"
+},{
+  "_id": {
+    "$oid": "643d3945cf03f50a3be10c51"
+  },
+  "code": 20004,
+  "name": "Smartwatch"
+},{
+  "_id": {
+    "$oid": "643d3952cf03f50a3be10c52"
+  },
+  "code": 20005,
+  "name": "Software"
+}]
